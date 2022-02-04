@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh chavda
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning for compTIA security + then after I will move on to oscp
+- 🌱 I’ve obtained  compTIA security now I am pursuing oscp
 - 📫 You can reach me at dineshchavda97@gmail.com
 
 <!---
