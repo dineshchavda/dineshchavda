@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dinesh chavda
-- Cybersecurity Analyst
-- 🌱 I’ve obtained  compTIA security now I am pursuing oscp
+- Cybersecurity Analyst with multiple Hat
+- 🌱 I hold multiple certification on Azure , IBM Qradar and Palo Alto firewall
+- Currently working towards GCIH 
 - 📫 You can reach me at dineshchavda97@gmail.com
 
 <!---
